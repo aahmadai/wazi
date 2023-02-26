@@ -1,1 +1,1 @@
-# wazo
+# wazi
